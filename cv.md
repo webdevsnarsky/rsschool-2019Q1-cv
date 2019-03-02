@@ -3,9 +3,9 @@
 ### Aliaksandr Snarski
 
 ### Contacts 
-[github](https://github.com/webdevsnarsky)
-[mob. phone](1234567)
-[e-mail](snarsky93@gmail.com) 
+* [github](https://github.com/webdevsnarsky)
+* mob. phone: 1234567
+* e-mail: snarsky93@gmail.com 
 
 ### Purchase
 I want to learn something new, actyality and what need for modern world market. 
@@ -19,7 +19,7 @@ Photoshop.CorelDraw, Adobe Illustrator
 
 ### Example of code 
 ![Example of code](https://drive.google.com/open?id=1n28utqRGt-h1h2nF5e1Vi5iLN3sR8lyg)
-more [here](view-source:http://snarsky.ru/maket-storent/) and on my site. 
+more [here](http://snarsky.ru) and on my site. 
 
 ### Experience 
 
