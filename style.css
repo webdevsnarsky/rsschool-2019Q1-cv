@@ -4,17 +4,23 @@
   box-sizing: border-box;
 }
 
+body {
+ background-color: #000000;
+ color: #ffffff;
+ margin: 0;
+}
 .div {
   text-align: center;
+  padding: 10px;
   margin: auto;
-  background-color: #000000;
-  color: #ffffff;
+  max-width: 1024px; 
 }
 
 .cv {
 border-radius: 180px;
 border: 3px solid aqua;
 box-shadow: 0 0 5px #666;
+
 }
 
 .code {
@@ -31,6 +37,6 @@ img {
   max-width: 450px;
 }
 
-h3 {
+h1, h3 {
   color: aqua;
 }
