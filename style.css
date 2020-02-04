@@ -1,0 +1,42 @@
+*{ 
+  margin: 0, auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+ background-color: #000000;
+ color: #ffffff;
+ margin: 0;
+}
+.div {
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+  max-width: 1024px; 
+}
+
+.cv {
+border-radius: 180px;
+border: 3px solid aqua;
+box-shadow: 0 0 5px #666;
+
+}
+
+.code {
+  border-radius: 40px;
+}
+
+ol, ul {
+  display: inline-block;
+  text-align-last: left;
+}
+
+img { 
+  width: 100%;
+  max-width: 450px;
+}
+
+h1, h3 {
+  color: aqua;
+}
